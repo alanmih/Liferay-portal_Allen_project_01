@@ -47,6 +47,8 @@
 			<column name="entryId" primary="true" type="long" />
 			<column name="name" type="String" />
 			<column name="email" type="String" />
+			<column name="phone" type="String"/>
+			<column name="address" type="String"/>
 			<column name="message" type="String" />
 			<column name="guestbookId" type="long" />
 		
